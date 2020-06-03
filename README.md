@@ -1,6 +1,6 @@
 Does:
 
-User profile size check on every production server into domain via SMB, if size exceeds 1 GB - out to file.
+-User profile size check on every production server into domain via SMB, if size exceeds 1 GB - out to file.
 
 Requeres:
 
